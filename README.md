@@ -6,9 +6,9 @@
 
 ## 🔧 Technologies & Tools
 - **Languages:** PHP, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Laravel, CodeIgniter, Bootstrap, jQuery, VueJS, React (learning), Node.js (learning)
+- **Frameworks & Libraries:** Laravel, CodeIgniter, Bootstrap, jQuery, VueJS, React, Node.js
 - **Databases:** MySQL, PostgreSQL, MongoDB (learning)
-- **APIs:** REST, Google Maps API, Twilio API, Telegram API, PayPal API
+- **APIs:** REST, Google Maps API, Google Cloud Translation API, DeepL API, Twilio API, Telegram API, PayPal API
 - **Tools & Platforms:** Git, Postman, Composer, NPM, VS Code, Webpack
 
 ---
